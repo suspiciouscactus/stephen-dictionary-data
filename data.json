@@ -1346,8 +1346,8 @@
     "taishaneseRomanization": "[ti55 sɔt55]",
     "cantonese": "T裇",
     "mandarin": "T恤衫",
-    "english": "T-shirt",
-    "notes": "裇 is the transcription of shirt."
+    "english": "[Loanword] T-shirt",
+    "notes": null
   },
   {
     "taishanese": "㓤",
@@ -4829,7 +4829,7 @@
     "taishaneseRomanization": "[fei215]",
     "cantonese": "飞",
     "mandarin": "票",
-    "english": "Ticket",
+    "english": "[Loanword] ticket",
     "notes": "Transcription of fare. Example: 买飞 to buy ticket"
   },
   {
@@ -9770,7 +9770,7 @@
     "taishaneseRomanization": "[bɔu21]",
     "cantonese": "包",
     "mandarin": "袋子/包",
-    "english": "Sack, box; (classifier) sack(s) of",
+    "english": "Sack, box; [Unit/Classifier] sack(s) of",
     "notes": "Example: 三包米 three sacks of rice; 米包 rice sacks."
   },
   {
@@ -10518,7 +10518,7 @@
     "cantonese": "灵",
     "mandarin": "灵验",
     "english": "Efficacious",
-    "notes": "Adj: [liaŋ22] (colloquial) efficacious. Noun: [lein22] (literal) sprit."
+    "notes": "Adj: [liaŋ22] [Colloquial] efficacious. Noun: [lein22] [Literal] sprit."
   },
   {
     "taishanese": "八字",
@@ -17699,7 +17699,7 @@
     "taishaneseRomanization": "[(d)ɛt55 kɔk55 liaŋ22]",
     "cantonese": "的确凉",
     "mandarin": "涤纶",
-    "english": "Dacron",
+    "english": "[Loanword] Dacron",
     "notes": "The transcription of Dacron. Literally really cool. A synthetic polyester fabric for summer dresses popular in the 70's."
   },
   {
@@ -23577,7 +23577,7 @@
     "cantonese": "全部",
     "mandarin": "全部",
     "english": "All",
-    "notes": "Transcription of all"
+    "notes": "[Loanword] all"
   },
   {
     "taishanese": "一打",
@@ -23855,8 +23855,8 @@
     "taishaneseRomanization": "[sɔ55 fa215]",
     "cantonese": "梳化",
     "mandarin": "沙发",
-    "english": "Sofa",
-    "notes": "Transcription of sofa"
+    "english": "[Loanword] sofa",
+    "notes": null
   },
   {
     "taishanese": "中国",
@@ -24324,7 +24324,7 @@
     "cantonese": "中气",
     "mandarin": "中气",
     "english": "(Chinese Medicine) Middle-Qi: a type of vital energy.",
-    "notes": "One's low energy level in oral communication is a symptom of the deficit of Middle-Qi (中气不足)."
+    "notes": "One's low energy level in oral communication is a symptom of the deficit of Middle-Qi (中气不足)."
   },
   {
     "taishanese": "台中",
@@ -24476,7 +24476,7 @@
     "taishaneseRomanization": "[li32 si32 fəŋ335]",
     "cantonese": "利是封",
     "mandarin": "红包袋子",
-    "english": "Envelope for thelucky money",
+    "english": "Envelope for thelucky money",
     "notes": null
   },
   {
@@ -25313,8 +25313,8 @@
     "taishaneseRomanization": "[bɔk55 sein215]",
     "cantonese": "卜成",
     "mandarin": "拳击",
-    "english": "Boxing",
-    "notes": "Transcription of boxing"
+    "english": "[Loanword] boxing",
+    "notes": null
   },
   {
     "taishanese": "电发",
@@ -26007,7 +26007,7 @@
     "cantonese": "烂市",
     "mandarin": "滞销",
     "english": "Overstocking of goods",
-    "notes": "Antonym of 渴市"
+    "notes": "Antonym of 渴市"
   },
   {
     "taishanese": "脱市",
@@ -26016,7 +26016,7 @@
     "cantonese": "脱市",
     "mandarin": "畅销",
     "english": "Much in demand in the market",
-    "notes": "Antonym of 烂市"
+    "notes": "Antonym of 烂市"
   },
   {
     "taishanese": "成行成市",
@@ -26313,7 +26313,7 @@
     "cantonese": "出",
     "mandarin": "出",
     "english": "To go out; to produce, next",
-    "notes": "出 is a compound ideogram  made up of  屮 (plant) + 凵 (earth, land), i.e. a plant coming out of the earth."
+    "notes": "出 is a compound ideogram  made up of  屮 (plant) + 凵 (earth, land), i.e. a plant coming out of the earth."
   },
   {
     "taishanese": "行街",
@@ -26403,7 +26403,7 @@
     "cantonese": "行星",
     "mandarin": "行星",
     "english": "Planet",
-    "notes": "Literally 'the wandering star,' a perfect translation of astéres planḗtai"
+    "notes": "Literally 'the wandering star,' a perfect translation of astéres planḗtai"
   },
   {
     "taishanese": "外行",
@@ -26906,8 +26906,8 @@
     "taishaneseRomanization": "[dɔ55 si215]",
     "cantonese": "多士",
     "mandarin": "烤面包",
-    "english": "A toast",
-    "notes": "Transcription of toast"
+    "english": "[Loanword] a toast",
+    "notes": null
   },
   {
     "taishanese": "七成",
@@ -27455,7 +27455,7 @@
     "taishaneseRomanization": "[din33 haŋ22 si22]",
     "cantonese": "进行时",
     "mandarin": "进行时",
-    "english": "(grammar) progressive tense",
+    "english": "[Grammar] progressive tense",
     "notes": null
   },
   {
@@ -28490,7 +28490,7 @@
     "taishaneseRomanization": "[hein33 yɔn22 i32 fɔŋ33]",
     "cantonese": "天圆地方",
     "mandarin": "天圆地方",
-    "english": "The Heaven is round and the Earth square",
+    "english": "The Heaven is round and the Earth square",
     "notes": null
   },
   {
@@ -31226,7 +31226,7 @@
     "taishaneseRomanization": "[si21 dam55]",
     "cantonese": "士担",
     "mandarin": "邮票",
-    "english": "(old) stamp (transcription of stamp)",
+    "english": "[Loanword] stamp",
     "notes": "Also 市泵. 士担 is a Cantonese transcription"
   },
   {
@@ -33656,7 +33656,7 @@
     "taishaneseRomanization": "[si21 ba55 la225]",
     "cantonese": "士巴拿",
     "mandarin": "板手",
-    "english": "Wrench, spanner",
+    "english": "[Loanword] wrench, spanner",
     "notes": "Transcription of spanner"
   },
   {
@@ -33665,8 +33665,8 @@
     "taishaneseRomanization": "[si21 dɛt55]",
     "cantonese": "士的",
     "mandarin": "柺杖",
-    "english": "Stick",
-    "notes": "Transcription of stick."
+    "english": "[Loanword] walking stick",
+    "notes": null
   },
   {
     "taishanese": "楼",
@@ -45167,7 +45167,7 @@
     "taishaneseRomanization": "[yiap21]",
     "cantonese": "页",
     "mandarin": "页",
-    "english": "Page; (classifier) page",
+    "english": "Page; [Unit/Classifier] page",
     "notes": "Example: 插页 insert, foldout, inset; 一页 one page"
   },
   {
@@ -47030,7 +47030,7 @@
     "taishaneseRomanization": "[kia55]",
     "cantonese": "茄",
     "mandarin": "节/段",
-    "english": "(Classifier) a section of (tree trunk/branch), a branch of (tree)",
+    "english": "[Unit/Classifier] a section of (tree trunk/branch), a branch of (tree)",
     "notes": null
   },
   {
@@ -47336,7 +47336,7 @@
     "taishaneseRomanization": "[fi55 lim225]",
     "cantonese": "菲林",
     "mandarin": "胶卷",
-    "english": "Photographic film",
+    "english": "[Loanword] photographic film",
     "notes": "Transcription of film"
   },
   {
@@ -48065,7 +48065,7 @@
     "taishaneseRomanization": "[dun21]",
     "cantonese": "樽",
     "mandarin": "瓶",
-    "english": "(classifier) a bottle of, bottles of",
+    "english": "[Unit/Classifier] a bottle of, bottles of",
     "notes": "Example: 两樽花露水 Two bottles of scented water (Florida Water)"
   },
   {
@@ -49118,7 +49118,7 @@
     "taishaneseRomanization": "[pai22]",
     "cantonese": "排",
     "mandarin": "排",
-    "english": "To line up, to put in order; (classifier) row; (military unit) platoon",
+    "english": "To line up, to put in order; [Unit/Classifier] row; (military unit) platoon",
     "notes": null
   },
   {
@@ -49298,8 +49298,8 @@
     "taishaneseRomanization": "[pai55]",
     "cantonese": "批",
     "mandarin": "派/饼",
-    "english": "Pie",
-    "notes": "Transcription of pie Example: 苹果批 Apple pie"
+    "english": "[Loanword] pie",
+    "notes": "Example: 苹果批 Apple pie"
   },
   {
     "taishanese": "嚿",
@@ -49379,8 +49379,8 @@
     "taishaneseRomanization": "[nai22 ləŋ22]",
     "cantonese": "尼龙",
     "mandarin": "尼龙",
-    "english": "Nylon",
-    "notes": "Transcription of nylon"
+    "english": "[Loanword] nylon",
+    "notes": null
   },
   {
     "taishanese": "该侧",
@@ -49649,7 +49649,7 @@
     "taishaneseRomanization": "[sai32 sai33]",
     "cantonese": "逝世",
     "mandarin": "逝世",
-    "english": "(formal) decease, passing away; to pass away",
+    "english": "[Formal] decease, passing away; to pass away",
     "notes": "An euphemism for death"
   },
   {
@@ -49685,7 +49685,7 @@
     "taishaneseRomanization": "[ɔu32 gək55]",
     "cantonese": "稻谷",
     "mandarin": "稻谷",
-    "english": "(formal) rice plant",
+    "english": "[Formal] rice plant",
     "notes": null
   },
   {
@@ -50135,8 +50135,8 @@
     "taishaneseRomanization": "[tai55]",
     "cantonese": "呔",
     "mandarin": "领带/轮胎",
-    "english": "Tie; tire",
-    "notes": "Transcription of tie or tire. Example: 领呔 tie, 车呔 tire"
+    "english": "[Loanword] tie; [Loanword] tire",
+    "notes": "Example: 领呔 tie, 车呔 tire"
   },
   {
     "taishanese": "啖",
@@ -50144,7 +50144,7 @@
     "taishaneseRomanization": "[am32]",
     "cantonese": "啖",
     "mandarin": "口",
-    "english": "(classifier) a mouthful of",
+    "english": "[Unit/Classifier] a mouthful of",
     "notes": "Example: 一啖饭 a mouthful of rice"
   },
   {
@@ -50171,7 +50171,7 @@
     "taishaneseRomanization": "[hɔt33]",
     "cantonese": "套",
     "mandarin": "套",
-    "english": "(classifier)  set (of cloths)",
+    "english": "[Unit/Classifier]  set (of cloths)",
     "notes": "Example: 一脱西装 a suit"
   },
   {
@@ -50225,7 +50225,7 @@
     "taishaneseRomanization": "[dzi32]",
     "cantonese": "箸",
     "mandarin": "一筷子",
-    "english": "(classifier) a chopsticks hold of (food)",
+    "english": "[Unit/Classifier] a chopsticks hold of (food)",
     "notes": "The amount hold by a pair of chopsticks. Example: 一箸菜 a chopsticks hold of food, 大箸夹335吃呀! Please feel free to eat as much as you like!"
   },
   {
@@ -50279,7 +50279,7 @@
     "taishaneseRomanization": "[ hɔu33]",
     "cantonese": "套",
     "mandarin": "套",
-    "english": "(classifier) set",
+    "english": "[Unit/Classifier] set",
     "notes": "Example: 一套纪念邮票 a set of commemorative stamps"
   },
   {
@@ -50720,7 +50720,7 @@
     "taishaneseRomanization": "[ham33 lam22]",
     "cantonese": "贪婪",
     "mandarin": "贪婪",
-    "english": "(formal) greedy, avaricious",
+    "english": "[Formal] greedy, avaricious",
     "notes": null
   },
   {
@@ -51233,7 +51233,7 @@
     "taishaneseRomanization": "[ban33]",
     "cantonese": "班",
     "mandarin": "班",
-    "english": "(classifier) group (of people)",
+    "english": "[Unit/Classifier] group (of people)",
     "notes": "Example: 成班人到处 The whole group is there"
   },
   {
@@ -51791,7 +51791,7 @@
     "taishaneseRomanization": "[ŋan32]",
     "cantonese": "雁",
     "mandarin": "雁",
-    "english": "(literal) wild goose",
+    "english": "[Literal] wild goose",
     "notes": null
   },
   {
@@ -51818,7 +51818,7 @@
     "taishaneseRomanization": "[han55]",
     "cantonese": "很",
     "mandarin": "很",
-    "english": "(literal) very",
+    "english": "[Literal] very",
     "notes": "The colloquial equivalent is 好"
   },
   {
@@ -51890,7 +51890,7 @@
     "taishaneseRomanization": "[ap32]",
     "cantonese": "沓",
     "mandarin": "沓",
-    "english": "(classifier) pack/pile (of paper)",
+    "english": "[Unit/Classifier] pack/pile (of paper)",
     "notes": null
   },
   {
@@ -52007,7 +52007,7 @@
     "taishaneseRomanization": "[fɔn33 baŋ55 lɔn32 hiau33]",
     "cantonese": "欢蹦乱跳",
     "mandarin": "欢蹦乱跳",
-    "english": "(literal) to romp, to skip, to frolic",
+    "english": "[Literal] to romp, to skip, to frolic",
     "notes": null
   },
   {
@@ -52052,7 +52052,7 @@
     "taishaneseRomanization": "[daŋ32 ɬəŋ33]",
     "cantonese": "赠送",
     "mandarin": "赠送",
-    "english": "(formal) to give a gift to",
+    "english": "[Formal] to give a gift to",
     "notes": null
   },
   {
@@ -52250,7 +52250,7 @@
     "taishaneseRomanization": "[dzaŋ33 nein22]",
     "cantonese": "狰狞",
     "mandarin": "狰狞",
-    "english": "(literal) hideous",
+    "english": "[Literal] hideous",
     "notes": null
   },
   {
@@ -52259,7 +52259,7 @@
     "taishaneseRomanization": "[fəŋ33 dzaŋ33]",
     "cantonese": "风筝",
     "mandarin": "风筝",
-    "english": "(literal) kite",
+    "english": "[Literal] kite",
     "notes": "the colloquial term is 纸鹞"
   },
   {
@@ -52610,7 +52610,7 @@
     "taishaneseRomanization": "[hat32]",
     "cantonese": "核",
     "mandarin": "核",
-    "english": "(literal) nuclear, core",
+    "english": "[Literal] nuclear, core",
     "notes": null
   },
   {
@@ -52853,7 +52853,7 @@
     "taishaneseRomanization": "[nap21]",
     "cantonese": "捺",
     "mandarin": "捺",
-    "english": "(Chinese character) right falling stroke ㇏",
+    "english": "[Chinese Character] right falling stroke ㇏",
     "notes": null
   },
   {
@@ -52925,7 +52925,7 @@
     "taishaneseRomanization": "[dzaŋ33 dzat55]",
     "cantonese": "挣扎",
     "mandarin": "挣扎",
-    "english": "(literal) to struggle; struggling",
+    "english": "[Literal] to struggle; struggling",
     "notes": null
   },
   {
@@ -53249,7 +53249,7 @@
     "taishaneseRomanization": "[kun22]",
     "cantonese": "群",
     "mandarin": "群",
-    "english": "(unit/classifier) group of, herd of",
+    "english": "[Unit/Classifier] group of, herd of",
     "notes": null
   },
   {
@@ -53492,7 +53492,7 @@
     "taishaneseRomanization": "[yip32 m21]",
     "cantonese": "入伍",
     "mandarin": "入伍",
-    "english": "(formal) to join the army",
+    "english": "[Formal] to join the army",
     "notes": null
   },
   {
@@ -53843,7 +53843,7 @@
     "taishaneseRomanization": "[ɬin33 fəŋ32]",
     "cantonese": "信奉",
     "mandarin": "信奉",
-    "english": "(formal) to believe in (religion, ideology)",
+    "english": "[Formal] to believe in (religion, ideology)",
     "notes": null
   },
   {
@@ -54050,7 +54050,7 @@
     "taishaneseRomanization": "[ɬiaŋ33 fəŋ22]",
     "cantonese": "相逢",
     "mandarin": "相逢",
-    "english": "(literal) to meet, to come across",
+    "english": "[Literal] to meet, to come across",
     "notes": null
   },
   {
@@ -54077,7 +54077,7 @@
     "taishaneseRomanization": "[fəŋ33 li32]",
     "cantonese": "锋利",
     "mandarin": "锋利",
-    "english": "(literal) sharp",
+    "english": "[Literal] sharp",
     "notes": null
   },
   {
@@ -54230,7 +54230,7 @@
     "taishaneseRomanization": "[pai33 dzun55]",
     "cantonese": "批准",
     "mandarin": "批准",
-    "english": "(formal) to allow, to permit",
+    "english": "[Formal] to allow, to permit",
     "notes": "Example: 公安局批准佢去香港 the Public Security Bureau gave him permission go to Hong Kong"
   },
   {
@@ -54257,7 +54257,7 @@
     "taishaneseRomanization": "[tein33 tsun33]",
     "cantonese": "青春",
     "mandarin": "青春",
-    "english": "(literal) youthfulness",
+    "english": "[Literal] youthfulness",
     "notes": null
   },
   {
@@ -54329,7 +54329,7 @@
     "taishaneseRomanization": "[pi22 gun32]",
     "cantonese": "疲倦",
     "mandarin": "疲倦",
-    "english": "(formal) tired, weary, fatigued",
+    "english": "[Formal] tired, weary, fatigued",
     "notes": null
   },
   {
@@ -54455,7 +54455,7 @@
     "taishaneseRomanization": "[kun55]",
     "cantonese": "捆",
     "mandarin": "捆",
-    "english": "(classifier) bundle",
+    "english": "[Unit/Classifier] bundle",
     "notes": null
   },
   {
@@ -55346,7 +55346,7 @@
     "taishaneseRomanization": "[vun21 hui55]",
     "cantonese": "允许",
     "mandarin": "允许",
-    "english": "(formal) to permit, to allow",
+    "english": "[Formal] to permit, to allow",
     "notes": null
   },
   {
@@ -55472,7 +55472,7 @@
     "taishaneseRomanization": "[dun33 siu55]",
     "cantonese": "遵守",
     "mandarin": "遵守",
-    "english": "(formal) to follow, to comply with",
+    "english": "[Formal] to follow, to comply with",
     "notes": "Example: 遵守交通规矩 to follow traffic rules"
   },
   {
@@ -55517,7 +55517,7 @@
     "taishaneseRomanization": "[hi33 fun21]",
     "cantonese": "气愤",
     "mandarin": "气愤",
-    "english": "(literal) indignant, furious, mad",
+    "english": "[Literal] indignant, furious, mad",
     "notes": null
   },
   {
@@ -55526,7 +55526,7 @@
     "taishaneseRomanization": "[fun21 bein32]",
     "cantonese": "粪便",
     "mandarin": "粪便",
-    "english": "(formal) feces, stool",
+    "english": "[Formal] feces, stool",
     "notes": null
   },
   {
@@ -55535,7 +55535,7 @@
     "taishaneseRomanization": "[fun32]",
     "cantonese": "份",
     "mandarin": "份",
-    "english": "Portion, share; (classifier) portion, share; classifier for job",
+    "english": "Portion, share; [Unit/Classifier] portion, share; classifier for job",
     "notes": "Example: 股份 shares (of ownership/stock); 我份工 my job"
   },
   {
@@ -55688,7 +55688,7 @@
     "taishaneseRomanization": "[fun33 fɔŋ33]",
     "cantonese": "芬芳",
     "mandarin": "芬芳",
-    "english": "(literal) fragrant",
+    "english": "[Literal] fragrant",
     "notes": null
   },
   {
@@ -55769,7 +55769,7 @@
     "taishaneseRomanization": "[fun33 mai22]",
     "cantonese": "昏迷",
     "mandarin": "昏迷",
-    "english": "(formal) to pass out, to lose consciousness",
+    "english": "[Formal] to pass out, to lose consciousness",
     "notes": "Colloquial: 晕 [vun223]"
   },
   {
@@ -55850,7 +55850,7 @@
     "taishaneseRomanization": "[hein22 un32]",
     "cantonese": "停顿",
     "mandarin": "停顿",
-    "english": "(formal) to pause, to halt, to stop; pause, stoppage",
+    "english": "[Formal] to pause, to halt, to stop; pause, stoppage",
     "notes": null
   },
   {
@@ -55859,7 +55859,7 @@
     "taishaneseRomanization": "[un32 pai22]",
     "cantonese": "盾牌",
     "mandarin": "盾牌",
-    "english": "(formal) shield",
+    "english": "[Formal] shield",
     "notes": "Colloquial: 挡箭牌 [ɔŋ55 dein33 pai22]"
   },
   {
@@ -55958,8 +55958,8 @@
     "taishaneseRomanization": "[pak55 mun225]",
     "cantonese": "柏文",
     "mandarin": "公寓",
-    "english": "Apartment",
-    "notes": "transcription of apartment"
+    "english": "[Loanword] apartment",
+    "notes": null
   },
   {
     "taishanese": "炆",
@@ -56021,8 +56021,8 @@
     "taishaneseRomanization": "[hɔ55 lɔk32]",
     "cantonese": "可乐",
     "mandarin": "可乐",
-    "english": "Cola",
-    "notes": "transcription of cola"
+    "english": "[Loanword] cola",
+    "notes": null
   },
   {
     "taishanese": "可大可小",
@@ -56336,8 +56336,8 @@
     "taishaneseRomanization": "[lɔ22 tip55]",
     "cantonese": "逻辑",
     "mandarin": "逻辑",
-    "english": "Logic",
-    "notes": "Transcription of logic"
+    "english": "[Loanword] logic",
+    "notes": null
   },
   {
     "taishanese": "封锁",
@@ -56894,8 +56894,8 @@
     "taishaneseRomanization": "[vɔ55 lun225]",
     "cantonese": "窝轮",
     "mandarin": "权证, 逮捕令",
-    "english": "Warrant",
-    "notes": "transcription of warrant"
+    "english": "[Loanword] warrant",
+    "notes": null
   },
   {
     "taishanese": "酒窝",
@@ -57074,7 +57074,7 @@
     "taishaneseRomanization": "[mɔ55 daŋ55]",
     "cantonese": "摩登",
     "mandarin": "摩登",
-    "english": "Hip, fashionable, in",
+    "english": "[Loanword] hip, fashionable, in",
     "notes": "Transcription of modern"
   },
   {
@@ -57173,7 +57173,7 @@
     "taishaneseRomanization": "[mɔ22 ham32]",
     "cantonese": "诬陷",
     "mandarin": "诬陷",
-    "english": "(literal) to plant false evidence against, to frame, to set someone up",
+    "english": "[Literal] to plant false evidence against, to frame, to set someone up",
     "notes": null
   },
   {
@@ -58001,7 +58001,7 @@
     "taishaneseRomanization": "[dzi55 ŋui215]",
     "cantonese": "主语",
     "mandarin": "主语",
-    "english": "(grammar) subject",
+    "english": "[Grammar] subject",
     "notes": null
   },
   {
@@ -58010,7 +58010,7 @@
     "taishaneseRomanization": "[ŋui21 fɔŋ22]",
     "cantonese": "乳房",
     "mandarin": "乳房",
-    "english": "(formal) breast",
+    "english": "[Formal] breast",
     "notes": "Colloquial: 奶[nein215]"
   },
   {
@@ -58055,7 +58055,7 @@
     "taishaneseRomanization": "[ɬiaŋ33 ŋui32]",
     "cantonese": "相遇",
     "mandarin": "相遇",
-    "english": "(formal) to meet one another; encounter",
+    "english": "[Formal] to meet one another; encounter",
     "notes": null
   },
   {
@@ -58091,7 +58091,7 @@
     "taishaneseRomanization": "[ga33 ŋui32]",
     "cantonese": "驾驭",
     "mandarin": "驾驭",
-    "english": "(literal) to control, to direct, to command",
+    "english": "[Literal] to control, to direct, to command",
     "notes": null
   },
   {
@@ -58100,7 +58100,7 @@
     "taishaneseRomanization": "[fɔŋ22 ŋui32]",
     "cantonese": "防御",
     "mandarin": "防御",
-    "english": "(formal) defense; to defend",
+    "english": "[Formal] defense; to defend",
     "notes": null
   },
   {
@@ -58262,7 +58262,7 @@
     "taishaneseRomanization": "[kui33 lɔk32 bu32]",
     "cantonese": "俱乐部",
     "mandarin": "俱乐部",
-    "english": "Club",
+    "english": "[Loanword] club",
     "notes": "As in night club. Transcription of club. Literally all happy section"
   },
   {
@@ -58289,7 +58289,7 @@
     "taishaneseRomanization": "[gui32 pa33]",
     "cantonese": "惧怕",
     "mandarin": "惧怕",
-    "english": "(literal) to fear, to dread",
+    "english": "[Literal] to fear, to dread",
     "notes": "Colloquial:"
   },
   {
@@ -58361,7 +58361,7 @@
     "taishaneseRomanization": "[ki33 kui33]",
     "cantonese": "崎岖",
     "mandarin": "崎岖",
-    "english": "(formal) rugged, rough, uneven, precipitous",
+    "english": "[Formal] rugged, rough, uneven, precipitous",
     "notes": null
   },
   {
@@ -58379,7 +58379,7 @@
     "taishaneseRomanization": "[kui33 dək32]",
     "cantonese": "驱逐",
     "mandarin": "驱逐",
-    "english": "(formal) to drive out, to expel, to banish",
+    "english": "[Formal] to drive out, to expel, to banish",
     "notes": "Example: 驱逐出境 to deport"
   },
   {
@@ -58388,7 +58388,7 @@
     "taishaneseRomanization": "[kui33 gɔn55]",
     "cantonese": "驱赶",
     "mandarin": "驱赶",
-    "english": "(literal) to drive, to shoo away, to evict",
+    "english": "[Literal] to drive, to shoo away, to evict",
     "notes": "Colloquial: 赶 [gɔn55]"
   },
   {
@@ -58496,7 +58496,7 @@
     "taishaneseRomanization": "[sin33 kui33]",
     "cantonese": "身躯",
     "mandarin": "身躯",
-    "english": "(formal) torso, body",
+    "english": "[Formal] torso, body",
     "notes": null
   },
   {
@@ -58649,7 +58649,7 @@
     "taishaneseRomanization": "[vɔi32 ɬui32]",
     "cantonese": "荟萃",
     "mandarin": "荟萃",
-    "english": "(literal) gather together, assemble (of distinguished people or exquisite objects)",
+    "english": "[Literal] gather together, assemble (of distinguished people or exquisite objects)",
     "notes": null
   },
   {
@@ -58658,7 +58658,7 @@
     "taishaneseRomanization": "[tiau22 ɬui32]",
     "cantonese": "憔悴",
     "mandarin": "憔悴",
-    "english": "(literal) emaciated, undernourished, wan and sallow, weary; withered, wilt;",
+    "english": "[Literal] emaciated, undernourished, wan and sallow, weary; withered, wilt;",
     "notes": null
   },
   {
@@ -58667,7 +58667,7 @@
     "taishaneseRomanization": "[sun22 ɬui32]",
     "cantonese": "纯粹",
     "mandarin": "纯粹",
-    "english": "(literal) pure, genuine",
+    "english": "[Literal] pure, genuine",
     "notes": null
   },
   {
@@ -58676,8 +58676,8 @@
     "taishaneseRomanization": "[nap32 ɬui32]",
     "cantonese": "纳粹",
     "mandarin": "纳粹",
-    "english": "Nazi",
-    "notes": "Transcription of Nazi"
+    "english": "[Loanword] Nazi",
+    "notes": null
   },
   {
     "taishanese": "国粹",
@@ -58838,7 +58838,7 @@
     "taishaneseRomanization": "[gui55 əŋ32]",
     "cantonese": "举动",
     "mandarin": "举动",
-    "english": "(negative connotation) action, act, conduct, movement, move, behavior",
+    "english": "[Negative Connotation] action, act, conduct, movement, move, behavior",
     "notes": null
   },
   {
@@ -58928,7 +58928,7 @@
     "taishaneseRomanization": "[lai32 ɬi55]",
     "cantonese": "赖死",
     "mandarin": "赖着不走, 纠缠不休",
-    "english": "(negative connotation) to stay behind without intention to leave (until \t\tgetting one's wish), to pester someone endlessly",
+    "english": "[Negative Connotation] to stay behind without intention to leave (until \t\tgetting one's wish), to pester someone endlessly",
     "notes": null
   },
   {
@@ -59045,7 +59045,7 @@
     "taishaneseRomanization": "[hɔu55 lui32]",
     "cantonese": "考虑",
     "mandarin": "考虑",
-    "english": "(formal) to consider, to think over; consideration",
+    "english": "[Formal] to consider, to think over; consideration",
     "notes": "Colloquial: 谂下 [nam55 ha21]/[nam521]"
   },
   {
@@ -59099,7 +59099,7 @@
     "taishaneseRomanization": "[lui32 sui55]",
     "cantonese": "泪水",
     "mandarin": "泪水",
-    "english": "(literal) tears",
+    "english": "[Literal] tears",
     "notes": "Colloquial: 眼泪 ŋan55 lui21]"
   },
   {
@@ -59144,7 +59144,7 @@
     "taishaneseRomanization": "[ɬui33 dak55]",
     "cantonese": "虽则",
     "mandarin": "虽则",
-    "english": "(literal) though, although, even though, in spite of",
+    "english": "[Literal] though, although, even though, in spite of",
     "notes": null
   },
   {
@@ -59153,7 +59153,7 @@
     "taishaneseRomanization": "[fun55 ɬui33]",
     "cantonese": "粉碎",
     "mandarin": "粉碎",
-    "english": "(formal) to smash, to shatter, to crush, to pulverize",
+    "english": "[Formal] to smash, to shatter, to crush, to pulverize",
     "notes": null
   },
   {
@@ -59207,7 +59207,7 @@
     "taishaneseRomanization": "[ɬui33 ŋut32]",
     "cantonese": "岁月",
     "mandarin": "岁月",
-    "english": "(literal) the years of one's life, time, age",
+    "english": "[Literal] the years of one's life, time, age",
     "notes": "Example: 岁月如流 Time flies"
   },
   {
@@ -59261,7 +59261,7 @@
     "taishaneseRomanization": "[mu22 ɬui33]",
     "cantonese": "无需",
     "mandarin": "无需",
-    "english": "(formal) no need to",
+    "english": "[Formal] no need to",
     "notes": "Colloquial: 唔使 [m22 sɔi55]"
   },
   {
@@ -59333,7 +59333,7 @@
     "taishaneseRomanization": "[ɬui32 ɬut55]",
     "cantonese": "瑞雪",
     "mandarin": "瑞雪",
-    "english": "(literal) timely snow, auspicious snow",
+    "english": "[Literal] timely snow, auspicious snow",
     "notes": null
   },
   {
@@ -59432,7 +59432,7 @@
     "taishaneseRomanization": "[hein22 bɔk32]",
     "cantonese": "停泊",
     "mandarin": "停泊",
-    "english": "(literal) to anchor, to moor",
+    "english": "[Literal] to anchor, to moor",
     "notes": "Colloquial: 湾 [van335]"
   },
   {
@@ -59495,7 +59495,7 @@
     "taishaneseRomanization": "[fu21 nui55]",
     "cantonese": "妇女",
     "mandarin": "妇女",
-    "english": "(formal) women",
+    "english": "[Formal] women",
     "notes": "Example: 妇女节 Women's Day"
   },
   {
@@ -59558,7 +59558,7 @@
     "taishaneseRomanization": "[pɔu21]",
     "cantonese": "抱",
     "mandarin": "抱",
-    "english": "(literal) to embrace, to hold in both arms; to harbor, to nurse",
+    "english": "[Literal] to embrace, to hold in both arms; to harbor, to nurse",
     "notes": "Colloquial: 揽 [lam55], 搻 [lak32]"
   },
   {
@@ -59576,7 +59576,7 @@
     "taishaneseRomanization": "[dzɔu55]",
     "cantonese": "找",
     "mandarin": "找",
-    "english": "(literal) to look for, to find, to search",
+    "english": "[Literal] to look for, to find, to search",
     "notes": "Colloquial: *[bɔi55]; 揾 [vun55]"
   },
   {
@@ -59738,8 +59738,8 @@
     "taishaneseRomanization": "[lui22 sia32]",
     "cantonese": "雷射",
     "mandarin": "激光",
-    "english": "Laser",
-    "notes": "Also 镭射; Transcription of laser"
+    "english": "[Loanword] laser",
+    "notes": "Also 镭射"
   },
   {
     "taishanese": "地雷",
@@ -59756,7 +59756,7 @@
     "taishaneseRomanization": "[lui22 at32]",
     "cantonese": "雷达",
     "mandarin": "雷达",
-    "english": "Radar",
+    "english": "[Loanword] radar",
     "notes": "Transcription of radar (through Cantonese or Mandarin)"
   },
   {
@@ -59801,7 +59801,7 @@
     "taishaneseRomanization": "[lui22 gu55]",
     "cantonese": "擂鼓",
     "mandarin": "擂鼓",
-    "english": "(literal) to beat drum",
+    "english": "[Literal] to beat drum",
     "notes": "Colloquial: 打鼓 [a55 gu55]"
   },
   {
@@ -59819,7 +59819,7 @@
     "taishaneseRomanization": "[bɔn32 lui21]",
     "cantonese": "伴侣",
     "mandarin": "伴侣",
-    "english": "(formal) companion, mate, partner",
+    "english": "[Formal] companion, mate, partner",
     "notes": null
   },
   {
@@ -59936,7 +59936,7 @@
     "taishaneseRomanization": "[ɔu55 dui32]",
     "cantonese": "岛屿",
     "mandarin": "岛屿",
-    "english": "(formal) islands",
+    "english": "[Formal] islands",
     "notes": null
   },
   {
@@ -60215,7 +60215,7 @@
     "taishaneseRomanization": "[gin33 tui22]",
     "cantonese": "跟随",
     "mandarin": "跟随",
-    "english": "(formal) to follow",
+    "english": "[Formal] to follow",
     "notes": null
   },
   {
@@ -60242,7 +60242,7 @@
     "taishaneseRomanization": "[tui22 bu32]",
     "cantonese": "徐步",
     "mandarin": "徐步",
-    "english": "(literal) to stroll",
+    "english": "[Literal] to stroll",
     "notes": null
   },
   {
@@ -60314,7 +60314,7 @@
     "taishaneseRomanization": "[hu22 yein22]",
     "cantonese": "徒刑",
     "mandarin": "徒刑",
-    "english": "(formal) imprisonment",
+    "english": "[Formal] imprisonment",
     "notes": "Example: 无期徒刑 life imprisonment"
   },
   {
@@ -60611,7 +60611,7 @@
     "taishaneseRomanization": "[ui33]",
     "cantonese": "堆",
     "mandarin": "堆",
-    "english": "(classifier) a heap of, heaps of",
+    "english": "[Unit/Classifier] a heap of, heaps of",
     "notes": null
   },
   {
@@ -60737,8 +60737,8 @@
     "taishaneseRomanization": "[dzi33 gu55 lɛt55]",
     "cantonese": "朱古力",
     "mandarin": "巧克力",
-    "english": "Chocolate",
-    "notes": "Transcription of chocolate"
+    "english": "[Loanword] chocolate",
+    "notes": null
   },
   {
     "taishanese": "古典",
@@ -60890,7 +60890,7 @@
     "taishaneseRomanization": "[gu55 dziaŋ55]",
     "cantonese": "鼓掌",
     "mandarin": "鼓掌",
-    "english": "(formal) to applaud, to clap hands",
+    "english": "[Formal] to applaud, to clap hands",
     "notes": "Colloquial: 拍手掌 [pak33 siu55 dziaŋ55]"
   },
   {
@@ -61169,7 +61169,7 @@
     "taishaneseRomanization": "[gi55 a55 gi55]",
     "cantonese": "鬼打鬼",
     "mandarin": "狗咬狗",
-    "english": "(negative connotation) internal fight",
+    "english": "[Negative Connotation] internal fight",
     "notes": null
   },
   {
@@ -61313,8 +61313,8 @@
     "taishaneseRomanization": "[lam55 ba325]",
     "cantonese": "冧巴",
     "mandarin": "号码",
-    "english": "Number",
-    "notes": "Transcription of number"
+    "english": "[Loanword] number",
+    "notes": null
   },
   {
     "taishanese": "差滴(多)",
@@ -61511,7 +61511,7 @@
     "taishaneseRomanization": "[ɬu33]",
     "cantonese": "撕",
     "mandarin": "撕",
-    "english": "(formal) to tear, to rip, to pull apart",
+    "english": "[Formal] to tear, to rip, to pull apart",
     "notes": "Colloquial: 搣 [mɛt33]; * [piau55]"
   },
   {
@@ -61880,7 +61880,7 @@
     "taishaneseRomanization": "[gan55 ŋim55 dzak32 sɛt32]",
     "cantonese": "拣饮择食",
     "mandarin": "挑吃",
-    "english": "(negative connotation) picky with food",
+    "english": "[Negative Connotation] picky with food",
     "notes": null
   },
   {
@@ -62096,7 +62096,7 @@
     "taishaneseRomanization": "[fun21 nu32]",
     "cantonese": "愤怒",
     "mandarin": "愤怒",
-    "english": "(literal) anger, indignation, rage, wrath; angry, indignant; angrily, indignantly",
+    "english": "[Literal] anger, indignation, rage, wrath; angry, indignant; angrily, indignantly",
     "notes": null
   },
   {
@@ -62168,7 +62168,7 @@
     "taishaneseRomanization": "[tɔu55 lu22]",
     "cantonese": "草庐",
     "mandarin": "草庐",
-    "english": "(literal) hut, cottage",
+    "english": "[Literal] hut, cottage",
     "notes": null
   },
   {
@@ -62186,7 +62186,7 @@
     "taishaneseRomanization": "[lu21 liak32]",
     "cantonese": "擄掠",
     "mandarin": "擄掠",
-    "english": "(formal) to pillage, to loot",
+    "english": "[Formal] to pillage, to loot",
     "notes": null
   },
   {
@@ -62717,7 +62717,7 @@
     "taishaneseRomanization": "[ɬu32 gɔn33]",
     "cantonese": "事干",
     "mandarin": "事情",
-    "english": "(negative connotation) matter, reason",
+    "english": "[Negative Connotation] matter, reason",
     "notes": "Example: 乜事干? What is the matter?"
   },
   {
@@ -62960,7 +62960,7 @@
     "taishaneseRomanization": "[tui22 bu32]",
     "cantonese": "徐步",
     "mandarin": "徐步",
-    "english": "(literal) to stroll",
+    "english": "[Literal] to stroll",
     "notes": null
   },
   {
@@ -63527,7 +63527,7 @@
     "taishaneseRomanization": "[ɬin33]",
     "cantonese": "呻",
     "mandarin": "诉苦",
-    "english": "(colloquial) to lament, to complaint",
+    "english": "[Colloquial] to lament, to complaint",
     "notes": null
   },
   {
@@ -63536,7 +63536,7 @@
     "taishaneseRomanization": "[sin33 ŋim22]",
     "cantonese": "呻吟",
     "mandarin": "呻吟",
-    "english": "(Literal) to groan, to moan",
+    "english": "[Literal] to groan, to moan",
     "notes": null
   },
   {
@@ -64310,7 +64310,7 @@
     "taishaneseRomanization": "[a33]",
     "cantonese": "啊",
     "mandarin": "啊",
-    "english": "Ah; (Grammar) question particle",
+    "english": "Ah; [Grammar] question particle",
     "notes": null
   },
   {
@@ -64319,7 +64319,7 @@
     "taishaneseRomanization": "[nɛ55]",
     "cantonese": "呢",
     "mandarin": "呢",
-    "english": "(Grammar) question particle",
+    "english": "[Grammar] question particle",
     "notes": "Usually follows a noun phase, with the meaning 'what about.' Example: 你呢? What about you?"
   },
   {
@@ -64445,7 +64445,7 @@
     "taishaneseRomanization": "[dzai33]",
     "cantonese": "制",
     "mandarin": "同音, 愿意",
-    "english": "(colloquial) yes, agree, I am willing",
+    "english": "[Colloquial] yes, agree, I am willing",
     "notes": "Example: 制唔制? 制! Do you want to do that? Yes!"
   },
   {
@@ -64490,7 +64490,7 @@
     "taishaneseRomanization": "[nai215]",
     "cantonese": "边道",
     "mandarin": "哪里",
-    "english": "(colloquial) where, which",
+    "english": "[Colloquial] where, which",
     "notes": "Contraction of 哪一. Colloquial substitute of 哪"
   },
   {
@@ -64562,7 +64562,7 @@
     "taishaneseRomanization": "[ma33]",
     "cantonese": "吗",
     "mandarin": "吗",
-    "english": "(Grammar) question particle",
+    "english": "[Grammar] question particle",
     "notes": "Example: 你好吗? How are you?"
   },
   {
@@ -64805,7 +64805,7 @@
     "taishaneseRomanization": "[ɔu55]",
     "cantonese": "到",
     "mandarin": "到",
-    "english": "(Grammar) particle used after a verb to indicate achievement and attainment",
+    "english": "[Grammar] particle used after a verb to indicate achievement and attainment",
     "notes": "Example: 听到 to hear, have heard. 听唔到 cannot hear, could not hear, have not heard."
   },
   {
@@ -64877,7 +64877,7 @@
     "taishaneseRomanization": "[hak55 hɔn32]",
     "cantonese": "可汗",
     "mandarin": "可汗",
-    "english": "(Loanword) khan",
+    "english": "[Loanword] khan",
     "notes": null
   },
   {
@@ -65111,8 +65111,8 @@
     "taishaneseRomanization": "[bai55 bai33]",
     "cantonese": "拜拜",
     "mandarin": "再见",
-    "english": "Bye bye",
-    "notes": "Transcription of bye bye"
+    "english": "[Loanword] bye bye",
+    "notes": null
   },
   {
     "taishanese": "重量",
@@ -65786,7 +65786,7 @@
     "taishaneseRomanization": "[lɔi22 ham22]",
     "cantonese": "来函",
     "mandarin": "来函",
-    "english": "(Literal) incoming letter",
+    "english": "[Literal] incoming letter",
     "notes": null
   },
   {
@@ -65885,7 +65885,7 @@
     "taishaneseRomanization": "[han55 hak55]",
     "cantonese": "坦克",
     "mandarin": "坦克",
-    "english": "Tank (military vehicle)",
+    "english": "[Loanword] tank (military vehicle)",
     "notes": "Loanword through Cantonese or Mandarin, transcription of tank"
   },
   {
@@ -66479,7 +66479,7 @@
     "taishaneseRomanization": "[fu33]",
     "cantonese": "副",
     "mandarin": "副",
-    "english": "Vice, secondary; (Classifier) pair, set",
+    "english": "Vice, secondary; [Unit/Classifier] pair, set",
     "notes": null
   },
   {
@@ -66920,7 +66920,7 @@
     "taishaneseRomanization": "[si55 yəŋ32]",
     "cantonese": "使用",
     "mandarin": "使用",
-    "english": "(Formal) to use; usage",
+    "english": "[Formal] to use; usage",
     "notes": null
   },
   {
@@ -67109,7 +67109,7 @@
     "taishaneseRomanization": "[əŋ32]",
     "cantonese": "戙",
     "mandarin": "竖",
-    "english": "To erect, to set upright; (Chinese Character) downward stroke",
+    "english": "To erect, to set upright; [Chinese Character] downward stroke",
     "notes": null
   },
   {
@@ -67325,7 +67325,7 @@
     "taishaneseRomanization": "[ŋein22]",
     "cantonese": "研",
     "mandarin": "研",
-    "english": "(Chinese Character) study, research",
+    "english": "Study, research",
     "notes": "Example: 科研 (scientific) research"
   },
   {
@@ -67397,7 +67397,7 @@
     "taishaneseRomanization": "[sim32]",
     "cantonese": "什",
     "mandarin": "什",
-    "english": "(Chinese Character) usually in the combination of 什么: (Mandarin) what",
+    "english": "Usually in the combination of 什么: (Mandarin) what",
     "notes": null
   },
   {
@@ -67442,7 +67442,7 @@
     "taishaneseRomanization": "[bək32]",
     "cantonese": "仆",
     "mandarin": "仆",
-    "english": "(Chinese Character) servant",
+    "english": "Servant",
     "notes": "Example: 仆人 servant; 女仆 maidservant. Simplified form of 僕"
   },
   {
@@ -67487,7 +67487,7 @@
     "taishaneseRomanization": "[lein22 ein33]",
     "cantonese": "伶仃",
     "mandarin": "伶仃",
-    "english": "(Literal) lonely",
+    "english": "[Literal] lonely",
     "notes": "Example: 孤苦伶仃 orphaned, penniless, and lonely"
   },
   {
@@ -67595,7 +67595,7 @@
     "taishaneseRomanization": "[ɬu32 hu22]",
     "cantonese": "仕途",
     "mandarin": "仕途",
-    "english": "(Literal) advancement in Chinese officialdom, career",
+    "english": "[Literal] advancement in Chinese officialdom, career",
     "notes": null
   },
   {
@@ -67640,7 +67640,7 @@
     "taishaneseRomanization": "[fu32 fɔn55]",
     "cantonese": "付款",
     "mandarin": "付款",
-    "english": "(Formal) to pay; payment",
+    "english": "[Formal] to pay; payment",
     "notes": "The colloquial verb form is 畀钱 [i55 tein225]"
   },
   {
@@ -67667,7 +67667,7 @@
     "taishaneseRomanization": "[dzi33 fu32]",
     "cantonese": "支付",
     "mandarin": "支付",
-    "english": "(Formal) to pay; payment",
+    "english": "[Formal] to pay; payment",
     "notes": null
   },
   {
@@ -67784,7 +67784,7 @@
     "taishaneseRomanization": "[tui55 ɔi32]",
     "cantonese": "取代",
     "mandarin": "取代",
-    "english": "(Formal) to replace",
+    "english": "[Formal] to replace",
     "notes": "Colloquial: 换 [vɔn32]"
   },
   {
@@ -68252,7 +68252,7 @@
     "taishaneseRomanization": "[yiu33 bu32]",
     "cantonese": "优步",
     "mandarin": "优步",
-    "english": "(Loanword) Uber",
+    "english": "[Loanword] Uber",
     "notes": null
   },
   {
@@ -68621,7 +68621,7 @@
     "taishaneseRomanization": "[kɔŋ33 lai32]",
     "cantonese": "伉俪",
     "mandarin": "伉俪",
-    "english": "(Formal) husband and wife, married couple",
+    "english": "[Formal] husband and wife, married couple",
     "notes": null
   },
   {
@@ -69098,7 +69098,7 @@
     "taishaneseRomanization": "[ɬat33 an32]",
     "cantonese": "撒但",
     "mandarin": "撒但",
-    "english": "(Loanword) Satan",
+    "english": "[Loanword] Satan",
     "notes": null
   },
   {
@@ -69449,7 +69449,7 @@
     "taishaneseRomanization": "[gai33 ŋin22]",
     "cantonese": "佳人",
     "mandarin": "佳人",
-    "english": "(Literal) belle, beauty",
+    "english": "[Literal] belle, beauty",
     "notes": "Colloquial: 靓女 [liaŋ33 nui55]"
   },
   {
@@ -69458,7 +69458,7 @@
     "taishaneseRomanization": "[dui33 gai33]",
     "cantonese": "最佳",
     "mandarin": "最佳",
-    "english": "(Literal) best, optimal",
+    "english": "[Literal] best, optimal",
     "notes": null
   },
   {
@@ -69467,7 +69467,7 @@
     "taishaneseRomanization": "[gai33]",
     "cantonese": "佳",
     "mandarin": "佳",
-    "english": "(Chinese Character) good, fine; beautiful; outstanding",
+    "english": "Good, fine; beautiful; outstanding",
     "notes": null
   },
   {
@@ -70160,7 +70160,7 @@
     "taishaneseRomanization": "[yiaŋ22]",
     "cantonese": "佯",
     "mandarin": "佯",
-    "english": "(Chinese Character) to pretend, to feign",
+    "english": "[Literal] to pretend, to feign",
     "notes": "Colloquial: 诈 [dza33]"
   },
   {
@@ -70169,7 +70169,7 @@
     "taishaneseRomanization": "[ŋiam21 ŋein22]",
     "cantonese": "俨然",
     "mandarin": "俨然",
-    "english": "(Literal) just like; solemn, dignified",
+    "english": "[Literal] just like; solemn, dignified",
     "notes": null
   },
   {
@@ -70178,7 +70178,7 @@
     "taishaneseRomanization": "[ŋiam21 ŋui22]",
     "cantonese": "俨如",
     "mandarin": "俨如",
-    "english": "(Literal) very much like",
+    "english": "[Literal] very much like",
     "notes": null
   },
   {
@@ -70547,7 +70547,7 @@
     "taishaneseRomanization": "[bɔu55 lein22]",
     "cantonese": "保龄",
     "mandarin": "保龄球",
-    "english": "(Loanword) bowling",
+    "english": "[Loanword] bowling",
     "notes": null
   },
   {
@@ -70979,7 +70979,7 @@
     "taishaneseRomanization": "[fəŋ55]",
     "cantonese": "俸",
     "mandarin": "俸",
-    "english": "(Old) salary, wage",
+    "english": "[Old] salary, wage",
     "notes": "Colloquial: 粮 [liaŋ22], 薪水 [ɬin33 sui55]"
   },
   {
@@ -71096,7 +71096,7 @@
     "taishaneseRomanization": "[ŋiak32 ai32]",
     "cantonese": "偌大",
     "mandarin": "偌大",
-    "english": "(Literal) so big, so large, of such a size",
+    "english": "[Literal] so big, so large, of such a size",
     "notes": null
   },
   {
@@ -71213,7 +71213,7 @@
     "taishaneseRomanization": "[kein55 hiaŋ33]",
     "cantonese": "倾听",
     "mandarin": "倾听",
-    "english": "(Literal) to listen attentively, to lend an attentive ear to",
+    "english": "[Literal] to listen attentively, to lend an attentive ear to",
     "notes": null
   },
   {
@@ -71258,7 +71258,7 @@
     "taishaneseRomanization": "[kein55 mu32]",
     "cantonese": "傾慕",
     "mandarin": "傾慕",
-    "english": "(Literal) to adore; adoration",
+    "english": "[Literal] to adore; adoration",
     "notes": null
   },
   {
@@ -71339,7 +71339,7 @@
     "taishaneseRomanization": "[həu22 gi33 ɔu55 ba55]",
     "cantonese": "投机倒把",
     "mandarin": "投机倒把",
-    "english": "(Negative connotation) to make money by profiteering",
+    "english": "[Negative Connotation] to make money by profiteering",
     "notes": null
   },
   {
@@ -71456,7 +71456,7 @@
     "taishaneseRomanization": "[ɬin33 fəŋ55]",
     "cantonese": "薪俸",
     "mandarin": "薪俸",
-    "english": "(Old) pay, salary",
+    "english": "[Old] pay, salary",
     "notes": null
   },
   {
@@ -71474,7 +71474,7 @@
     "taishaneseRomanization": "[sian32 yein55]",
     "cantonese": "倩影",
     "mandarin": "倩影",
-    "english": "(Literal) beautiful image (of a woman)",
+    "english": "[Literal] beautiful image (of a woman)",
     "notes": null
   },
   {
@@ -71537,7 +71537,7 @@
     "taishaneseRomanization": "[gɔi33]",
     "cantonese": "个",
     "mandarin": "个",
-    "english": "(Classifier) piece",
+    "english": "[Unit/Classifier] piece",
     "notes": "Generic classifier for person, apple, month, week, hour, alphabet, round and solid objects, etc."
   },
   {
@@ -71546,7 +71546,7 @@
     "taishaneseRomanization": "[gɔi33]",
     "cantonese": "个",
     "mandarin": "个",
-    "english": "(Chinese character) individual, single",
+    "english": "Individual, single",
     "notes": "Example: 个性 individuality, personality; 个别 individual, some."
   },
   {
@@ -71582,7 +71582,7 @@
     "taishaneseRomanization": "[hɔŋ55 ŋiak32]",
     "cantonese": "倘若",
     "mandarin": "倘若",
-    "english": "(Literal) if, supposing, in case",
+    "english": "[Literal] if, supposing, in case",
     "notes": null
   },
   {
@@ -71798,7 +71798,7 @@
     "taishaneseRomanization": "[dziu33]",
     "cantonese": "周",
     "mandarin": "周",
-    "english": "(Old) week; day of of the week",
+    "english": "[Old] week; day of of the week",
     "notes": "Synonym: 星期. Example: 周一 Monday; 周二 Tuesday; 周日 Sunday"
   },
   {
@@ -71996,7 +71996,7 @@
     "taishaneseRomanization": "[kui33 tun22]",
     "cantonese": "俱全",
     "mandarin": "俱全",
-    "english": "(Literal) complete, completely",
+    "english": "[Literal] complete, completely",
     "notes": null
   },
   {
@@ -72104,7 +72104,7 @@
     "taishaneseRomanization": "[tɛt55 hɔŋ55]",
     "cantonese": "倜傥",
     "mandarin": "倜傥",
-    "english": "(Literal) elegant, carefree, graceful",
+    "english": "[Literal] elegant, carefree, graceful",
     "notes": null
   },
   {
@@ -72221,7 +72221,7 @@
     "taishaneseRomanization": "[gein32 lɛt32 ɬu325]",
     "cantonese": "健力士",
     "mandarin": "吉尼斯",
-    "english": "(loanword) Guinness",
+    "english": "[Loanword] Guinness",
     "notes": null
   },
   {
@@ -72374,7 +72374,7 @@
     "taishaneseRomanization": "[gai33/hai22]",
     "cantonese": "偕",
     "mandarin": "偕",
-    "english": "(Literal) together",
+    "english": "[Literal] together",
     "notes": null
   },
   {
@@ -72383,7 +72383,7 @@
     "taishaneseRomanization": "[hai22 həŋ22]",
     "cantonese": "偕同",
     "mandarin": "偕同",
-    "english": "(Literal) in the company of, accompanied by, along with",
+    "english": "[Literal] in the company of, accompanied by, along with",
     "notes": null
   },
   {
@@ -72419,7 +72419,7 @@
     "taishaneseRomanization": "[siaŋ22 van22]",
     "cantonese": "偿还",
     "mandarin": "偿还",
-    "english": "(Formal) to repay (debt)",
+    "english": "[Formal] to repay (debt)",
     "notes": "Colloquial: 还返 [van22 fan33] to repay (debt), to return (borrowed object)"
   },
   {
@@ -72482,7 +72482,7 @@
     "taishaneseRomanization": "[pɔi33 ŋəu21]",
     "cantonese": "配偶",
     "mandarin": "配偶",
-    "english": "(Formal) spouse, mate",
+    "english": "[Formal] spouse, mate",
     "notes": null
   },
   {
@@ -72671,7 +72671,7 @@
     "taishaneseRomanization": "[pein33 pein33]",
     "cantonese": "偏偏",
     "mandarin": "偏偏",
-    "english": "(Formal) willfully, contrary to expectation",
+    "english": "[Formal] willfully, contrary to expectation",
     "notes": null
   },
   {
@@ -73526,7 +73526,7 @@
     "taishaneseRomanization": "[bak32 lan55 di325]",
     "cantonese": "白兰地",
     "mandarin": "白兰地",
-    "english": "(Loanword) Brandy",
+    "english": "[Loanword] Brandy",
     "notes": null
   },
   {
@@ -73679,7 +73679,7 @@
     "taishaneseRomanization": "[nai55]",
     "cantonese": "啲",
     "mandarin": "些",
-    "english": "(colloquial) some, a few",
+    "english": "[Colloquial] some, a few",
     "notes": "Variant: 乃"
   },
   {
@@ -73778,7 +73778,7 @@
     "taishaneseRomanization": "[gan33]",
     "cantonese": "关",
     "mandarin": "关",
-    "english": "(Literal) to close, to turn off",
+    "english": "[Literal] to close, to turn off",
     "notes": "Colloquial: 闩 [san33]"
   },
   {
@@ -74111,7 +74111,7 @@
     "taishaneseRomanization": "[ha21 ha21]",
     "cantonese": "次次",
     "mandarin": "老是",
-    "english": "(Negative Connotation) every time, always",
+    "english": "[Negative Connotation] every time, always",
     "notes": "Example: 下下要我跟手尾 Need me to follow up always"
   },
   {
@@ -74192,7 +74192,7 @@
     "taishaneseRomanization": "[lim22 ba33]",
     "cantonese": "淋巴",
     "mandarin": "淋巴",
-    "english": "(Loanword) lymph; lymphatic",
+    "english": "[Loanword] lymph; lymphatic",
     "notes": null
   },
   {
@@ -74525,7 +74525,7 @@
     "taishaneseRomanization": "[kut55 fək32]",
     "cantonese": "屈服",
     "mandarin": "屈服",
-    "english": "(Literal) to surrender, to yield",
+    "english": "[Literal] to surrender, to yield",
     "notes": null
   },
   {
@@ -74651,7 +74651,7 @@
     "taishaneseRomanization": "[taŋ22 gein33]",
     "cantonese": "曾经",
     "mandarin": "曾经",
-    "english": "Previously, once, in the past; (Grammar) past/perfect tense marker",
+    "english": "Previously, once, in the past; [Grammar] past/perfect tense marker",
     "notes": null
   },
   {
@@ -74723,7 +74723,7 @@
     "taishaneseRomanization": "[təŋ22]",
     "cantonese": "从",
     "mandarin": "从",
-    "english": "(Formal) from",
+    "english": "[Formal] from",
     "notes": null
   },
   {
@@ -74777,7 +74777,7 @@
     "taishaneseRomanization": "[yi55 si21]",
     "cantonese": "恃住",
     "mandarin": "仗恃",
-    "english": "(Negative Connotation) to depend on, to rely on, to take advantage of \t\tprivileges",
+    "english": "[Negative Connotation] to depend on, to rely on, to take advantage of \t\tprivileges",
     "notes": null
   },
   {
@@ -75011,7 +75011,7 @@
     "taishaneseRomanization": "[mɔt32]",
     "cantonese": "勿",
     "mandarin": "勿",
-    "english": "(Formal) do not, never",
+    "english": "[Formal] do not, never",
     "notes": "Colloquial 唔好 [m22 hɔu55]"
   },
   {
@@ -75128,7 +75128,7 @@
     "taishaneseRomanization": "[ŋi22 həŋ22]",
     "cantonese": "儿童",
     "mandarin": "儿童",
-    "english": "(Formal) children",
+    "english": "[Formal] children",
     "notes": "Colloquial: 细民仔"
   },
   {
@@ -75227,7 +75227,7 @@
     "taishaneseRomanization": "[fai33 lɔk32]",
     "cantonese": "快乐",
     "mandarin": "快乐",
-    "english": "(Formal) happy",
+    "english": "[Formal] happy",
     "notes": "Example: 生日快乐 Happy Birthday"
   },
   {
@@ -75371,7 +75371,7 @@
     "taishaneseRomanization": "[ɬək55 ŋun32]",
     "cantonese": "夙愿",
     "mandarin": "夙愿",
-    "english": "(Literal) a cherished dream",
+    "english": "[Literal] a cherished dream",
     "notes": null
   },
   {
@@ -75389,7 +75389,7 @@
     "taishaneseRomanization": "[hɔi55 gɔ215]",
     "cantonese": "凯歌",
     "mandarin": "凯歌",
-    "english": "(Literal) songs of triumph",
+    "english": "[Literal] songs of triumph",
     "notes": null
   },
   {
@@ -75425,7 +75425,7 @@
     "taishaneseRomanization": "[kɔŋ33 fun21]",
     "cantonese": "亢奋",
     "mandarin": "亢奋",
-    "english": "(Literal) very excited",
+    "english": "[Literal] very excited",
     "notes": null
   },
   {
@@ -75605,7 +75605,7 @@
     "taishaneseRomanization": "[pɔu33 hi33]",
     "cantonese": "抛弃",
     "mandarin": "抛弃",
-    "english": "(Literal) to abandon, to cast away",
+    "english": "[Literal] to abandon, to cast away",
     "notes": null
   },
   {
@@ -75740,7 +75740,7 @@
     "taishaneseRomanization": "[bi33 ɔi33]",
     "cantonese": "悲哀",
     "mandarin": "悲哀",
-    "english": "(Literal) sorrowful, grieved",
+    "english": "[Literal] sorrowful, grieved",
     "notes": "Colloquial: 凄凉 [tai33 liaŋ22]"
   },
   {
@@ -75749,7 +75749,7 @@
     "taishaneseRomanization": "[hiaŋ55 liaŋ32]",
     "cantonese": "响亮",
     "mandarin": "响亮",
-    "english": "(Literal) loud and clear",
+    "english": "[Literal] loud and clear",
     "notes": null
   },
   {
@@ -75794,7 +75794,7 @@
     "taishaneseRomanization": "[yɛt32 ki22]",
     "cantonese": "弈棋",
     "mandarin": "弈棋",
-    "english": "(Literal) to play chess, to play Go",
+    "english": "[Literal] to play chess, to play Go",
     "notes": "Colloquial: 作棋 [dɔk33 ki225]"
   },
   {
@@ -75902,7 +75902,7 @@
     "taishaneseRomanization": "[pɔŋ22]",
     "cantonese": "旁",
     "mandarin": "旁",
-    "english": "Side; (Chinese Character) radical",
+    "english": "Side; [Chinese Character] radical",
     "notes": "Colloquial: 边 [bein215]"
   },
   {
@@ -76109,7 +76109,7 @@
     "taishaneseRomanization": "[yəŋ33 yəŋ22]",
     "cantonese": "雍容",
     "mandarin": "雍容",
-    "english": "(Literal) regal, splendid, graceful and poised",
+    "english": "[Literal] regal, splendid, graceful and poised",
     "notes": null
   },
   {
@@ -76595,7 +76595,7 @@
     "taishaneseRomanization": "[yəŋ55 yɔn22]",
     "cantonese": "冗员",
     "mandarin": "冗员",
-    "english": "(Formal) excess personnel",
+    "english": "[Formal] excess personnel",
     "notes": null
   },
   {
@@ -76640,7 +76640,7 @@
     "taishaneseRomanization": "[tsəŋ55]",
     "cantonese": "冢",
     "mandarin": "冢",
-    "english": "(Literal) tomb, burial mound",
+    "english": "[Literal] tomb, burial mound",
     "notes": null
   },
   {
@@ -76775,7 +76775,7 @@
     "taishaneseRomanization": "[gɔu33 gai33]",
     "cantonese": "告诫",
     "mandarin": "告诫",
-    "english": "(Formal) to warn, to admonish, to exhort",
+    "english": "[Formal] to warn, to admonish, to exhort",
     "notes": null
   },
   {
@@ -76883,7 +76883,7 @@
     "taishaneseRomanization": "[ə33]",
     "cantonese": "咗",
     "mandarin": "了",
-    "english": "(Grammar) percfective aspect particle, PFV",
+    "english": "[Grammar] percfective aspect particle, PFV",
     "notes": "Example: 吃诶饭 [hiak33 ə33 fan32] have eaten (rice)"
   },
   {
@@ -77531,7 +77531,7 @@
     "taishaneseRomanization": "[kiak55]",
     "cantonese": "却",
     "mandarin": "却",
-    "english": "(Literal) to retreat, to repulse, to reject",
+    "english": "[Literal] to retreat, to repulse, to reject",
     "notes": null
   },
   {
@@ -77801,7 +77801,7 @@
     "taishaneseRomanization": "[mak32 saŋ33]",
     "cantonese": "陌生",
     "mandarin": "陌生",
-    "english": "(Literal) strange, unfamiliar",
+    "english": "[Literal] strange, unfamiliar",
     "notes": "Colloquial: 生暴 [saŋ33 bɔu32]"
   },
   {
@@ -77846,7 +77846,7 @@
     "taishaneseRomanization": "[han32 si22 han32 hak55]",
     "cantonese": "限时限刻",
     "mandarin": "有时间限制",
-    "english": "(Negative Connotation) with time restriction/limit",
+    "english": "[Negative Connotation] with time restriction/limit",
     "notes": null
   },
   {
@@ -77990,7 +77990,7 @@
     "taishaneseRomanization": "[pɔi22 həŋ22]",
     "cantonese": "陪同",
     "mandarin": "陪同",
-    "english": "(Formal) to accompany (someone on official visits)",
+    "english": "[Formal] to accompany (someone on official visits)",
     "notes": null
   },
   {
@@ -78053,7 +78053,7 @@
     "taishaneseRomanization": "[tsiaŋ33 ləŋ22]",
     "cantonese": "昌隆",
     "mandarin": "昌隆",
-    "english": "(Formal) prosperous, thriving",
+    "english": "[Formal] prosperous, thriving",
     "notes": null
   },
   {
@@ -78179,7 +78179,7 @@
     "taishaneseRomanization": "[na22]",
     "cantonese": "那",
     "mandarin": "那",
-    "english": "(Formal Demonstrative) that",
+    "english": "[Formal Demonstrative] that",
     "notes": "Colloquial: 咛 [nein21]"
   },
   {
@@ -78188,7 +78188,7 @@
     "taishaneseRomanization": "[dzia33]",
     "cantonese": "这",
     "mandarin": "这",
-    "english": "(Formal Demonstrative) this",
+    "english": "[Formal Demonstrative] this",
     "notes": "Colloquial: 该 [kɔi21]"
   },
   {
@@ -78260,7 +78260,7 @@
     "taishaneseRomanization": "[u33]",
     "cantonese": "都",
     "mandarin": "都",
-    "english": "Capital; all; (Grammar) for emphasis in the form of 'Subj + 都 + Verb + Obj'",
+    "english": "Capital; all; [Grammar] for emphasis in the form of 'Subj + 都 + Verb + Obj'",
     "notes": null
   },
   {
@@ -78278,7 +78278,7 @@
     "taishaneseRomanization": "[bu32]",
     "cantonese": "部",
     "mandarin": "部",
-    "english": "Department; part of an area; (unit/classifier) books, cars, machines, films, etc.",
+    "english": "Department; part of an area; [Unit/Classifier] books, cars, machines, films, etc.",
     "notes": null
   },
   {
@@ -78359,7 +78359,7 @@
     "taishaneseRomanization": "[tɛt55 mɔt32]",
     "cantonese": "切勿",
     "mandarin": "切勿",
-    "english": "(Formal) don't, do not by any means, be sure not to",
+    "english": "[Formal] don't, do not by any means, be sure not to",
     "notes": null
   },
   {
@@ -78386,7 +78386,7 @@
     "taishaneseRomanization": "[yin32]",
     "cantonese": "刃",
     "mandarin": "刃",
-    "english": "(Literal) blade a knife, sword, etc.",
+    "english": "[Literal] blade a knife, sword, etc.",
     "notes": null
   },
   {
@@ -78440,7 +78440,7 @@
     "taishaneseRomanization": "[əu33 dzaŋ33]",
     "cantonese": "斗争",
     "mandarin": "斗争",
-    "english": "(Formal) struggle, fight",
+    "english": "[Formal] struggle, fight",
     "notes": "Example: 阶级斗争 [gai33 kip55 əu33 dzaŋ33] (Marxism) class struggle"
   },
   {
@@ -78971,7 +78971,7 @@
     "taishaneseRomanization": "[lut55]",
     "cantonese": "劣",
     "mandarin": "劣",
-    "english": "(Formal) inferior, substandard",
+    "english": "[Formal] inferior, substandard",
     "notes": null
   },
   {
@@ -78989,7 +78989,7 @@
     "taishaneseRomanization": "[giap55]",
     "cantonese": "劫",
     "mandarin": "劫",
-    "english": "(Chinese Character) to rob, to hijack; calamity, disaster",
+    "english": "To rob, to hijack; calamity, disaster",
     "notes": null
   },
   {
@@ -79052,7 +79052,7 @@
     "taishaneseRomanization": "[piat21]",
     "cantonese": "坺",
     "mandarin": "堆, 团",
-    "english": "(Classifier) a puddle of",
+    "english": "[Unit/Classifier] a puddle of",
     "notes": null
   },
   {
@@ -79223,7 +79223,7 @@
     "taishaneseRomanization": "[bɔt32 bɔt32]",
     "cantonese": "勃勃",
     "mandarin": "勃勃",
-    "english": "(Literal) flourishing, energetic",
+    "english": "[Literal] flourishing, energetic",
     "notes": null
   },
   {
@@ -79376,7 +79376,7 @@
     "taishaneseRomanization": "[sɔŋ33]",
     "cantonese": "双",
     "mandarin": "双",
-    "english": "Two, double; (Classifier) pair of",
+    "english": "Two, double; [Unit/Classifier] pair of",
     "notes": null
   },
   {
@@ -79466,7 +79466,7 @@
     "taishaneseRomanization": "[diap55 siu32]",
     "cantonese": "接受",
     "mandarin": "接受",
-    "english": "(Formal) to accept, to receive",
+    "english": "[Formal] to accept, to receive",
     "notes": null
   },
   {
@@ -79610,7 +79610,7 @@
     "taishaneseRomanization": "[ŋin22 ɬu32]",
     "cantonese": "人士",
     "mandarin": "人士",
-    "english": "(Formal) person",
+    "english": "[Formal] person",
     "notes": null
   },
   {
@@ -79731,15 +79731,6 @@
     "notes": "Example: 饮喜酒 to attend a wedding feast"
   },
   {
-    "taishanese": "旁",
-    "taishaneseAudio": "http://www.stephen-li.com/TaishaneseVocabulary/Misc17/Audio/misc17%20Part%20262%20of%20418.mp3",
-    "taishaneseRomanization": "[pɔŋ22]",
-    "cantonese": "旁",
-    "mandarin": "旁",
-    "english": "Side; (Chinese Character) radical",
-    "notes": "Colloquial: 边 [bein215]"
-  },
-  {
     "taishanese": "壹",
     "taishaneseAudio": "http://www.stephen-li.com/TaishaneseVocabulary/Misc17/Audio/misc17%20Part%20263%20of%20418.mp3",
     "taishaneseRomanization": "[yit55]",
@@ -79754,7 +79745,7 @@
     "taishaneseRomanization": "[ga33 bin33]",
     "cantonese": "嘉宾",
     "mandarin": "嘉宾",
-    "english": "(Formal) guest, distinguished guest",
+    "english": "[Formal] guest, distinguished guest",
     "notes": null
   },
   {
@@ -79763,7 +79754,7 @@
     "taishaneseRomanization": "[ga33 diaŋ55]",
     "cantonese": "嘉奖",
     "mandarin": "嘉奖",
-    "english": "(Formal) to award an honor; honorary award",
+    "english": "[Formal] to award an honor; honorary award",
     "notes": null
   },
   {
@@ -79772,7 +79763,7 @@
     "taishaneseRomanization": "[ga33 nein33 va33]",
     "cantonese": "嘉年华",
     "mandarin": "嘉年华",
-    "english": "(Loanword) carnival",
+    "english": "[Loanword] carnival",
     "notes": null
   },
   {
@@ -80096,7 +80087,7 @@
     "taishaneseRomanization": "[ɬu33 sək32]",
     "cantonese": "私塾",
     "mandarin": "私塾",
-    "english": "(Old) private school",
+    "english": "[Old] private school",
     "notes": null
   },
   {
@@ -80213,7 +80204,7 @@
     "taishaneseRomanization": "[gəŋ33 gɛt55]",
     "cantonese": "攻击",
     "mandarin": "攻击",
-    "english": "To attack, to charge, to assault; (Noun) attack, charge, assault",
+    "english": "To attack, to charge, to assault; [Noun] attack, charge, assault",
     "notes": null
   },
   {
@@ -80240,7 +80231,7 @@
     "taishaneseRomanization": "[da55]",
     "cantonese": "打",
     "mandarin": "打",
-    "english": "(Loanword) dozen",
+    "english": "[Loanword] dozen",
     "notes": null
   },
   {
@@ -80816,7 +80807,7 @@
     "taishaneseRomanization": "[hein21 lip32]",
     "cantonese": "挺立",
     "mandarin": "挺立",
-    "english": "(Literal) to stand up straight",
+    "english": "[Literal] to stand up straight",
     "notes": null
   },
   {
@@ -80834,7 +80825,7 @@
     "taishaneseRomanization": "[siu33 sip32]",
     "cantonese": "收拾",
     "mandarin": "收拾",
-    "english": "(Literal) to tidy up, to clean up, to put in order",
+    "english": "[Literal] to tidy up, to clean up, to put in order",
     "notes": null
   },
   {
@@ -81005,7 +80996,7 @@
     "taishaneseRomanization": "[van21 liu22]",
     "cantonese": "挽留",
     "mandarin": "挽留",
-    "english": "(Literal) to persuade to stay",
+    "english": "[Literal] to persuade to stay",
     "notes": null
   },
   {
